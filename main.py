@@ -1,1 +1,2 @@
-print("this is my first try and more and more and more - 2023 on my mac")
+print("20 days are " + str(20*24*60) + " minutes")
+print(f"20 days are {20*24*60} minutes")
